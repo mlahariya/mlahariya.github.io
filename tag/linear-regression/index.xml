@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linear Regression | Manu Lahariya</title>
+    <link>https://mlahariya.github.io/tag/linear-regression/</link>
+      <atom:link href="https://mlahariya.github.io/tag/linear-regression/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linear Regression</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlahariya.github.io/media/icon_hu446ac7d1b1789e200a0f6c6efda4540e_272816_512x512_fill_lanczos_center_3.png</url>
+      <title>Linear Regression</title>
+      <link>https://mlahariya.github.io/tag/linear-regression/</link>
+    </image>
+    
+    <item>
+      <title>Data Science | Competitions</title>
+      <link>https://mlahariya.github.io/researchprojects/2017_compitions/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2017_compitions/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://dare2compete.com/competition/exl-excellence-quotient-exl-service-pvt-ltd-11851&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EXL Excellence quotient, 2016&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;National competition | &lt;strong&gt;Awarded accuracy champion&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Organisers - &lt;a href=&#34;https://www.exlservice.com/services-and-solutions/analytics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EXL analytics&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;National data analytics competition on revenue modelling for a marketing campaign conducted by EXL analytics with 1000+ teams from IITs. Analysed skewed data of 19 variables and developed insights on spending habits by listing significant variables and their correlations. Achieved 98.9% accuracy of the model by applying polynomial regression (in variables) and linear regression and using CV error (for model selection). Calculated the Impact of offer on the cost and revenue of the bank and concluded an accurate incremental profit of INR 672,948&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hackerearth.com/challenges/competitive/zs-young-data-scientist-challenge-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Young Data scientist, 2017&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;National competition | 143-Leaderboard rank&lt;/li&gt;
+&lt;li&gt;Organisers - &lt;a href=&#34;https://www.zs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZS associates&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Prediction of annual revenue and leasing probability for all possible future clients.&lt;/li&gt;
+&lt;li&gt;Prepared leasing conditional probability variables, performed clustering and identified high lease rate hubs based on regions&lt;/li&gt;
+&lt;li&gt;Predicted annual revenue by applying regression on individual hubs using constructed conditional variables (test data- 0.14 error)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PyLSTM | Manu Lahariya</title>
+    <link>https://mlahariya.github.io/tag/pylstm/</link>
+      <atom:link href="https://mlahariya.github.io/tag/pylstm/index.xml" rel="self" type="application/rss+xml" />
+    <description>PyLSTM</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlahariya.github.io/media/icon_hu446ac7d1b1789e200a0f6c6efda4540e_272816_512x512_fill_lanczos_center_3.png</url>
+      <title>PyLSTM</title>
+      <link>https://mlahariya.github.io/tag/pylstm/</link>
+    </image>
+    
+    <item>
+      <title>Physics-informed Recurrent Neural Networks for The Identification of a Generic Energy Buffer System</title>
+      <link>https://mlahariya.github.io/publication/2021_ddcls/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2021_ddcls/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

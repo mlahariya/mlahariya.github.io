@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Manu Lahariya</title>
+    <link>https://mlahariya.github.io/publication/</link>
+      <atom:link href="https://mlahariya.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlahariya.github.io/media/icon_hu446ac7d1b1789e200a0f6c6efda4540e_272816_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://mlahariya.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>A 𝑸-learning based demand response algorithm for industrial processes with flexibility</title>
+      <link>https://mlahariya.github.io/publication/2022_qlearning_chapter/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2022_qlearning_chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning physics-informed simulation models for soft robotic manipulation: A case study with dielectric elastomer actuators</title>
+      <link>https://mlahariya.github.io/publication/2022_iros_underreview/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2022_iros_underreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics Informed LSTM Network for Flexibility Identification in Evaporative Cooling Systems</title>
+      <link>https://mlahariya.github.io/publication/2022_ieeetii/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2022_ieeetii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computationally efficient joint coordination of multiple electric vehicle charging points using reinforcement learning</title>
+      <link>https://mlahariya.github.io/publication/2022_appliedenergy_underreview/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2022_appliedenergy_underreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics-informed Recurrent Neural Networks for The Identification of a Generic Energy Buffer System</title>
+      <link>https://mlahariya.github.io/publication/2021_ddcls/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2021_ddcls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Data Generator for Electric Vehicle Charging Sessions: Modeling and Evaluation Using Real-World Data</title>
+      <link>https://mlahariya.github.io/publication/2020_energies/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2020_energies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining a synthetic data generator for realistic electric vehicle charging sessions</title>
+      <link>https://mlahariya.github.io/publication/2020_eenergy/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2020_eenergy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduced state space and cost function in reinforcement learning for demand response control of multiple EV charging stations.</title>
+      <link>https://mlahariya.github.io/publication/2019_buildsys/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2019_buildsys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculation of Theoretical Performance of Boron-Based Composite Solid Propellant for the Future Applications.</title>
+      <link>https://mlahariya.github.io/publication/2016_idad/</link>
+      <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2016_idad/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

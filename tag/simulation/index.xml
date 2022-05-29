@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>simulation | Manu Lahariya</title>
+    <link>https://mlahariya.github.io/tag/simulation/</link>
+      <atom:link href="https://mlahariya.github.io/tag/simulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>simulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlahariya.github.io/media/icon_hu446ac7d1b1789e200a0f6c6efda4540e_272816_512x512_fill_lanczos_center_3.png</url>
+      <title>simulation</title>
+      <link>https://mlahariya.github.io/tag/simulation/</link>
+    </image>
+    
+    <item>
+      <title>Statistical Modelling - EV Fleet</title>
+      <link>https://mlahariya.github.io/researchprojects/2020_evsdg/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2020_evsdg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Data Generator for Electric Vehicle Charging Sessions: Modeling and Evaluation Using Real-World Data</title>
+      <link>https://mlahariya.github.io/publication/2020_energies/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2020_energies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining a synthetic data generator for realistic electric vehicle charging sessions</title>
+      <link>https://mlahariya.github.io/publication/2020_eenergy/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2020_eenergy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

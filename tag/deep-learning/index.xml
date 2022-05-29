@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Manu Lahariya</title>
+    <link>https://mlahariya.github.io/tag/deep-learning/</link>
+      <atom:link href="https://mlahariya.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlahariya.github.io/media/icon_hu446ac7d1b1789e200a0f6c6efda4540e_272816_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://mlahariya.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Physics Informed LSTM Network for Flexibility Identification in Evaporative Cooling Systems</title>
+      <link>https://mlahariya.github.io/publication/2022_ieeetii/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2022_ieeetii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics informed simulation &amp; control - Soft Robotics</title>
+      <link>https://mlahariya.github.io/researchprojects/2021_uoe/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2021_uoe/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Research Visit&lt;/strong&gt; at &lt;a href=&#34;https://rad.inf.ed.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robust autonomy and decisions lab&lt;/a&gt;,
+&lt;a href=&#34;http://www.ed.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPAB, School of Informatics, University of Edinburgh.&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Publication: &lt;em&gt;Learning physics-informed simulation models for soft robotic manipulation: A case study with dielectric elastomer actuators&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Soft actuators offer a safe and adaptable approach to robotic tasks like gentle grasping and dexterous movement. Creating accurate models to control such systems however is challenging due to the complex physics of deformable materials. Accurate Finite Element Method (FEM) models incur prohibitive computational complexity for closed-loop use. Using a differentiable simulator is an attractive alternative, but their applicability to soft actuators and deformable materials remains under-explored. This paper presents a framework that combines the advantages of both. We learn a differentiable model consisting of a material properties neural network and an analytical dynamics model of the remainder of the manipulation task. This physics-informed model is trained using data generated from FEM, and can be used for closed-loop control and inference. We evaluate our framework on a dielectric elastomer actuator (DEA) coin-pulling task. We simulate DEA coin pulling in FEM, and design experiments to evaluate the physicsinformed model for simulation, control, and inference. Our model attains ≤ 5% simulation error compared to FEM, and we use it as the basis for an MPC controller that outperforms (i.e., requires fewer iterations to converge) a model-free actor-critic policy, a heuristic policy, and a PD controller.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physics RL - Demand Response</title>
+      <link>https://mlahariya.github.io/researchprojects/2022_bigg/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2022_bigg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

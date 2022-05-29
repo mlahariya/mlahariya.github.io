@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Propellant ingredients | Manu Lahariya</title>
+    <link>https://mlahariya.github.io/tag/propellant-ingredients/</link>
+      <atom:link href="https://mlahariya.github.io/tag/propellant-ingredients/index.xml" rel="self" type="application/rss+xml" />
+    <description>Propellant ingredients</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlahariya.github.io/media/icon_hu446ac7d1b1789e200a0f6c6efda4540e_272816_512x512_fill_lanczos_center_3.png</url>
+      <title>Propellant ingredients</title>
+      <link>https://mlahariya.github.io/tag/propellant-ingredients/</link>
+    </image>
+    
+    <item>
+      <title>Calculation of Theoretical Performance of Boron-Based Composite Solid Propellant for the Future Applications.</title>
+      <link>https://mlahariya.github.io/publication/2016_idad/</link>
+      <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2016_idad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Master Thesis</title>
+      <link>https://mlahariya.github.io/researchprojects/2016_mtech/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2016_mtech/</guid>
+      <description>&lt;p&gt;Department of Aerospace Engineering, Indian Institute of Technology, Kharagpur, India.&lt;/p&gt;
+&lt;p&gt;“Experimental screening of boron based solid rocket fuels for hybrid rocket applications”&lt;br&gt;
+Presented also at - 11th International High Energy Material Conference and Exhibits, 2017.&lt;/p&gt;
+&lt;p&gt;Worked on construction of an opposed flow burner and tested multiple propellant pallet compositions to study Isp and velocity dynamics.&lt;/p&gt;
+&lt;p&gt;Analysed 120 nano boron compositions, calculated effect of particle size on burn rates, particle trajectory &amp;amp; specific impulse. Used FE SEM and high speed imaging for particle characterisation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bachelors Thesis</title>
+      <link>https://mlahariya.github.io/researchprojects/2015_btech/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2015_btech/</guid>
+      <description>&lt;p&gt;Department of Aerospace Engineering, Indian Institute of Technology, Kharagpur, India.&lt;/p&gt;
+&lt;p&gt;Rocket propulsion- “Calculation of Theoretical Performance of Boron-Based Composite Solid Propellant for the Future Applications” - S.A. Hashim, M. Lahariya, S. Karmakar, A. Roy.
+Conference : I-DAD in Aerospace and Automotive Engineering, 2016.&lt;/p&gt;
+&lt;p&gt;Presented insights based on specific impulse and theoretical analysis of performance parameters of metal based solid rocket propellants
+Analysed 250 propellant configurations and suggested best among those configurations based on high energy density using NASA CEA&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,2486 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.4.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Exo+2:wght@200;400;600&&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Exo+2:wght@200;400;600&&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Manu Lahariya" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Hello!" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://mlahariya.github.io/more/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.c403a4870207cd40c6135429158b2a72.css" />
+
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-219633360-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-219633360-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu446ac7d1b1789e200a0f6c6efda4540e_272816_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu446ac7d1b1789e200a0f6c6efda4540e_272816_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://mlahariya.github.io/more/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="Manu Lahariya" />
+  <meta property="og:url" content="https://mlahariya.github.io/more/" />
+  <meta property="og:title" content="More | Manu Lahariya" />
+  <meta property="og:description" content="Hello!" /><meta property="og:image" content="https://mlahariya.github.io/media/icon_hu446ac7d1b1789e200a0f6c6efda4540e_272816_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://mlahariya.github.io/media/icon_hu446ac7d1b1789e200a0f6c6efda4540e_272816_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2019-01-01T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2019-01-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>More | Manu Lahariya</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper   " data-wc-page-id="4d9c84e594a496c48c0750c73b6708d8" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.8f76bdc9e086322ed5147724ebba3d06.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Manu Lahariya</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Manu Lahariya</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-center" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>About Me</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/#about"><span>Biography</span></a>
+              
+                <a class="dropdown-item" href="/#researchprojects"><span>Research Projects</span></a>
+              
+                <a class="dropdown-item" href="/#experience"><span>Industry Experince</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#researchprojects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>More</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/more/"><span>Life Logs</span></a>
+              
+                <a class="dropdown-item" href="/photography/"><span>Photography</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+<span class="js-widget-page d-none"></span>
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+    
+    
+    
+      
+      
+    
+    
+      
+      
+    
+    
+      
+      
+    
+  
+
+  
+    
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="sections" class="home-section wg-blank  "  >
+   <div class="home-section-bg  bg-image parallax" style="background-image: url(&#39;https://mlahariya.github.io/media/backgrounds/background-more_huf9a678ed1adb37b2cc768a388d4cfec1_615231_1920x1920_fit_q75_h2_lanczos.webp&#39;);background-size: cover;background-position: center;filter: brightness(0.6);">
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  justify-content-center">
+      
+        
+          <div class="section-heading col-12 mb-3 text-center">
+            <h1 class="mb-0">Who I Have Been</h1>
+            <p class="mt-1">Where I Have Been</p>
+          </div>
+        
+      
+    
+
+      
+
+
+
+  <div class="col-12">
+    <p><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></p>
+
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+    
+    
+    
+      
+      
+    
+    
+      
+      
+    
+    
+      
+      
+    
+  
+
+  
+    
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="personalprojects" class="home-section wg-portfolio  "  >
+   <div class="home-section-bg  bg-image parallax" style="background-image: url(&#39;https://mlahariya.github.io/media/backgrounds/background-more_huf9a678ed1adb37b2cc768a388d4cfec1_615231_1920x1920_fit_q75_h2_lanczos.webp&#39;);background-size: cover;background-position: center;filter: brightness(0.6);">
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Personal Projects</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+
+    
+
+    
+    
+    
+    
+
+    <span class="d-none default-project-filter">.js-id-</span>
+
+    
+    
+  
+
+  <div class="isotope projects-container js-layout-masonry ">
+
+    
+    
+      
+    
+
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 1, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/personalprojects/2019_ghentmun/" >Public Relations | Ghent MUN</a>
+  </div>
+
+  
+  <a href="/personalprojects/2019_ghentmun/"  class="summary-link">
+    <div class="article-style">
+      <p>Organizing team, Model United Nations, Ghent, Belgium</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 1, 2016
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/personalprojects/2016_stac/" >Co-Founder | STAC</a>
+  </div>
+
+  
+  <a href="/personalprojects/2016_stac/"  class="summary-link">
+    <div class="article-style">
+      <p>Space Technology Awareness Camps (STAC), Collaborated with ISRO, India</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 1, 2013
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/personalprojects/2013_nssc/" >Core Team Head | Publicity &amp; Sponsorship</a>
+  </div>
+
+  
+  <a href="/personalprojects/2013_nssc/"  class="summary-link">
+    <div class="article-style">
+      <p>National Students Space Challenge, IIT Kharagpur, India</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+
+  </div>
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+    
+    
+    
+      
+      
+    
+    
+      
+      
+    
+    
+      
+      
+    
+  
+
+  
+    
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="writingprojects" class="home-section wg-portfolio  "  >
+   <div class="home-section-bg  bg-image parallax" style="background-image: url(&#39;https://mlahariya.github.io/media/backgrounds/background-more_huf9a678ed1adb37b2cc768a388d4cfec1_615231_1920x1920_fit_q75_h2_lanczos.webp&#39;);background-size: cover;background-position: center;filter: brightness(0.6);">
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Creative Expression</h1>
+            <p class="mt-1">My scribbles - <a href="https://medium.com/@me.lahariya.001">Medium, Manu Lahariya</a></p>
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+
+    
+
+    
+    
+    
+    
+
+    <span class="d-none default-project-filter">.js-id-Prose</span>
+
+    
+    
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar">
+          <div class="btn-group flex-wrap">
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-Prose" class="btn btn-primary btn-lg active">Prose</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-Poetry" class="btn btn-primary btn-lg">Poetry</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-Music" class="btn btn-primary btn-lg">Music</a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  
+
+  <div class="isotope projects-container js-layout-masonry ">
+
+    
+    
+      
+    
+
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-Music">
+        
+        
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jul 1, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="https://www.youtube.com/watch?v=bpFj7hzwYKU" target="_blank" rel="noopener">Old Love | Eric Clapton | Cover</a>
+  </div>
+
+  
+
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-Music">
+        
+        
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jun 1, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="https://www.youtube.com/watch?v=vb3ECHUIU-8" target="_blank" rel="noopener">Edge of Desire | John Mayer | Cover</a>
+  </div>
+
+  
+
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-Prose">
+        
+        
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Feb 19, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="https://medium.com/@me.lahariya.001/motion-sickness-11a999e90a24" target="_blank" rel="noopener">
+    <div class="img-hover-zoom">
+      <img src="/writingprojects/2019_motionsickness/featured_hu1485d12212675a60ccb9ff876d642809_93838_808x455_fill_q75_h2_lanczos_center.webp" height="455" width="808"
+           class="article-banner" alt="Motion Sickness" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="https://medium.com/@me.lahariya.001/motion-sickness-11a999e90a24" target="_blank" rel="noopener">Motion Sickness</a>
+  </div>
+
+  
+  <a href="https://medium.com/@me.lahariya.001/motion-sickness-11a999e90a24" target="_blank" rel="noopener" class="summary-link">
+    <div class="article-style">
+      <p>Driven by my cardinal desires, desperate and discordant, I recently diagnosed my prudent self with motion sickness&hellip;</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-Prose">
+        
+        
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Feb 19, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="https://medium.com/@me.lahariya.001/the-birth-of-maturity-introduction-who-am-i-47b74fbfabaf" target="_blank" rel="noopener">
+    <div class="img-hover-zoom">
+      <img src="/writingprojects/2019_whoami/featured_huf957eb7cc0803733802fcc4099cfd7cb_96875_808x455_fill_q75_h2_lanczos_center.webp" height="455" width="808"
+           class="article-banner" alt="The Birth of Maturity" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="https://medium.com/@me.lahariya.001/the-birth-of-maturity-introduction-who-am-i-47b74fbfabaf" target="_blank" rel="noopener">The Birth of Maturity</a>
+  </div>
+
+  
+  <a href="https://medium.com/@me.lahariya.001/the-birth-of-maturity-introduction-who-am-i-47b74fbfabaf" target="_blank" rel="noopener" class="summary-link">
+    <div class="article-style">
+      <p>Yes, The second door to the left. And I shoot towards the direction, oscillating and stumbling&hellip;</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-Prose">
+        
+        
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 1, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="https://medium.com/@me.lahariya.001/talking-to-myself-1a82d9251c99" target="_blank" rel="noopener">
+    <div class="img-hover-zoom">
+      <img src="/writingprojects/2019_talkingtomyself/featured_huedbbc153d6274fefbd0e7f034bacc12e_79761_808x455_fill_q75_h2_lanczos_center.webp" height="455" width="808"
+           class="article-banner" alt="Talking to myself" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="https://medium.com/@me.lahariya.001/talking-to-myself-1a82d9251c99" target="_blank" rel="noopener">Talking to myself</a>
+  </div>
+
+  
+  <a href="https://medium.com/@me.lahariya.001/talking-to-myself-1a82d9251c99" target="_blank" rel="noopener" class="summary-link">
+    <div class="article-style">
+      <p>The Darkness breaks with the calm voice&hellip;</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-Poetry">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 1, 2017
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/writingprojects/poetry_1/" >
+    <div class="img-hover-zoom">
+      <img src="/writingprojects/poetry_1/featured_hu1485d12212675a60ccb9ff876d642809_93838_808x455_fill_q75_h2_lanczos_center.webp" height="455" width="808"
+           class="article-banner" alt="Rivers" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/writingprojects/poetry_1/" >Rivers</a>
+  </div>
+
+  
+  <a href="/writingprojects/poetry_1/"  class="summary-link">
+    <div class="article-style">
+      <p>All Flowing ..</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-Poetry">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 1, 2017
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/writingprojects/poetry_2/" >Summer Ends</a>
+  </div>
+
+  
+  <a href="/writingprojects/poetry_2/"  class="summary-link">
+    <div class="article-style">
+      <p>Sundays turn ..</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+
+  </div>
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+    
+    
+    
+      
+      
+    
+    
+      
+      
+    
+    
+      
+      
+    
+  
+
+  
+    
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="delights" class="home-section wg-experience  "  >
+   <div class="home-section-bg  bg-image parallax" style="background-image: url(&#39;https://mlahariya.github.io/media/backgrounds/background-more_huf9a678ed1adb37b2cc768a388d4cfec1_615231_1920x1920_fit_q75_h2_lanczos.webp&#39;);background-size: cover;background-position: center;filter: brightness(0.6);">
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Delights</h1>
+            <p class="mt-1">Some of my great delights in life, including but not limited to fiction and non-fiction books, music, graphic novels, manga, movies, TV shows and more.</p>
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+  
+
+  
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col ">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><img src="/media/icons/brands/icon-book.svg" width="56px" height="56px" alt="" loading="lazy"></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Fiction Books</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"></div>
+              <div class="text-muted exp-meta">
+                Jan 2010 –
+                
+                  Present
+                
+                
+              </div>
+            </div>
+          </div>
+          
+
+          <div class="card-text"><ul>
+<li><a href="https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea">The old man and the sea</a> - <em>Book by Ernest Hemingway</em></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Metamorphosis">Metamorphosis</a> - <em>Book by Franz Kafka</em></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)">The stranger</a> - <em>Book by Albert Camus</em></li>
+<li><a href="https://en.wikipedia.org/wiki/A_Single_Man_(novel)">A single man</a> - <em>Book by Christopher Isherwood</em></li>
+<li><a href="https://www.amazon.in/Spirits-Rebellious-Kahlil-Gibran/dp/8120732073">Spirits Rebellious</a> - <em>Book by Kahlil Gibran</em></li>
+<li><a href="https://en.wikipedia.org/wiki/Norwegian_Wood_(novel)">Norwegian Wood</a> - <em>Book by Haruki Murakami</em></li>
+<li><a href="https://www.goodreads.com/book/show/475218.Time_Stops_at_Shamli_and_Other_Stories">Time stops at Shamli</a> - <em>Book by Ruskin Bond</em></li>
+<li><a href="https://www.goodreads.com/book/show/70884.The_Last_Night_of_the_Earth_Poems">The Last Night of the Earth Poems</a> - <em>Book by Charles Bukowski</em></li>
+<li>There is so much many to mention, that I will run out of space. Some other names include Emily Dickinson, Khaled Hosseini, etc.</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><img src="/media/icons/brands/icon-book.svg" width="56px" height="56px" alt="" loading="lazy"></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Non-Fiction Books</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"></div>
+              <div class="text-muted exp-meta">
+                Jan 2010 –
+                
+                  Present
+                
+                
+              </div>
+            </div>
+          </div>
+          
+
+          <div class="card-text"><ul>
+<li><a href="https://www.goodreads.com/book/show/26329.Emotional_Intelligence">Emotional Intelligence</a> - <em>Book by Daniel Goleman</em></li>
+<li><a href="https://www.goodreads.com/book/show/30257963-12-rules-for-life">The 12 Rules for Life</a> - <em>Book by Jordan Peterson</em></li>
+<li><a href="https://www.goodreads.com/book/show/23692271-sapiens">Sapiens</a> - <em>Book by Yuval Noah Harari</em></li>
+<li><a href="https://www.goodreads.com/book/show/27323.Hiroshima">Hiroshima</a> - <em>Book by John Hersey</em></li>
+<li><a href="https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning">Man&rsquo;s Search for Meaning</a> - <em>Book by Viktor Frankl</em></li>
+<li>And a lot of academic non-fiction from rocket science to mathematics to artificial intelligence.</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><img src="/media/icons/brands/icon-music.svg" width="56px" height="56px" alt="" loading="lazy"></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Music</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"></div>
+              <div class="text-muted exp-meta">
+                Jan 2010 –
+                
+                  Present
+                
+                
+              </div>
+            </div>
+          </div>
+          
+
+          <div class="card-text"><ul>
+<li><a href="https://www.youtube.com/watch?v=BuYMJz_EACI">10,000 days</a> - <em>Album by Tool</em></li>
+<li><a href="https://www.youtube.com/watch?v=ycYewhiaVBk">Drive home</a> - <em>Song by Steven Wilson</em></li>
+<li><a href="https://www.youtube.com/watch?v=HxGT5z6d-GA">Autumn Leaves</a> - <em>by Yenne Lee</em></li>
+<li><a href="https://www.youtube.com/watch?v=53N99Nim6WE">Echoes</a> - <em>Song by Pink Floyd</em></li>
+<li><a href="https://www.youtube.com/watch?v=N3oCS85HvpY">Where is my mind</a> - <em>Song by Pixies</em></li>
+<li><a href="https://www.youtube.com/watch?v=4zTFzMPWGLs">Husna</a> - <em>Song by Piyush Mishra</em></li>
+<li><a href="https://www.youtube.com/watch?v=sbm70mLYLSg">Watch Over You</a> - <em>Song by Alter Bridge</em></li>
+<li><a href="https://www.youtube.com/watch?v=x_ZeDn-hHGE">Bright lights</a> - <em>Song by Gary Clark Jr</em></li>
+<li>There is a fine line between <a href="https://www.youtube.com/watch?v=OsOUcikyGRk">Moonlight sonata</a> and <a href="https://www.youtube.com/watch?v=qnlhVVwBfew">Rosetta Stoned</a>, and I tread carefully somewhere in there.</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><img src="/media/icons/brands/icon-movies.svg" width="56px" height="56px" alt="" loading="lazy"></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Movies</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"></div>
+              <div class="text-muted exp-meta">
+                Jan 2010 –
+                
+                  Present
+                
+                
+              </div>
+            </div>
+          </div>
+          
+
+          <div class="card-text"><ul>
+<li><a href="https://en.wikipedia.org/wiki/Secret_in_Their_Eyes">Secret in Their Eyes</a> - <em>Directed by Billy Ray</em></li>
+<li><a href="https://en.wikipedia.org/wiki/Ship_of_Theseus_(film)">Ship of Theseus</a> - <em>Directed by Anand Gandhi</em></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Pianist_(2002_film)">The Pianist</a> - <em>Directed by Roman Polanski</em></li>
+<li><a href="https://en.wikipedia.org/wiki/Masaan">Masaan</a> - <em>Directed by Neeraj Ghaywan</em></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Truman_Show">The Truman Show</a> - <em>Directed by Peter Weir</em></li>
+<li><a href="https://en.wikipedia.org/wiki/Being_John_Malkovich">Being John Malkovich</a> - <em>Directed by Spike Jonze</em></li>
+<li><a href="https://www.imdb.com/title/tt4686844/">The Death of Stalin</a> - <em>Directed by Armando Iannucci</em></li>
+<li>There is no horror in my indulgences. A honorary mention here would be <a href="https://www.youtube.com/watch?v=2tp0UNcjzl8">George Carlin</a>.</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><img src="/media/icons/brands/icon-manga.svg" width="56px" height="56px" alt="" loading="lazy"></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Graphic novels and Manga</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"></div>
+              <div class="text-muted exp-meta">
+                Jan 2010 –
+                
+                  Present
+                
+                
+              </div>
+            </div>
+          </div>
+          
+
+          <div class="card-text"><ul>
+<li><a href="https://en.wikipedia.org/wiki/Bakuman">Bakuman</a> - <em>Written by Tsugumi Ohba</em></li>
+<li><a href="https://en.wikipedia.org/wiki/March_Comes_In_like_a_Lion">March Comes In like a Lion</a> - <em>written by by Chica Umino</em></li>
+<li><a href="https://en.wikipedia.org/wiki/Attack_on_Titan">Attack on titans</a> - <em>Written by Hajime Isayama</em></li>
+<li><a href="https://en.wikipedia.org/wiki/Spice_and_Wolf">Spice and wolf</a> - <em>Written by Isuna Hasekura</em></li>
+<li><a href="https://en.wikipedia.org/wiki/Your_Lie_in_April">Your lie in April</a> - <em>Written by 	Naoshi Arakawa</em></li>
+<li><a href="https://en.wikipedia.org/wiki/Berserk_(manga)">Berserk</a> - <em>Written by 	Kentaro Miura</em></li>
+<li><a href="https://en.wikipedia.org/wiki/Koi_Kaze">Koi Kaze</a> - <em>Written by Motoi Yoshida</em></li>
+<li>There is always more to read. I guess.</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col ">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><img src="/media/icons/brands/icon-anime.svg" width="56px" height="56px" alt="" loading="lazy"></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Anime</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"></div>
+              <div class="text-muted exp-meta">
+                Jan 2010 –
+                
+                  Present
+                
+                
+              </div>
+            </div>
+          </div>
+          
+
+          <div class="card-text"><ul>
+<li><a href="https://en.wikipedia.org/wiki/Grave_of_the_Fireflies">Grave of fireflies</a> - <em>Directed by Isao Takahata</em></li>
+<li><a href="https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion">Neon genesis evangelion</a> - <em>Directed by Hideaki Anno</em></li>
+<li><a href="https://en.wikipedia.org/wiki/Metropolis_(2001_film)">Metropolis</a>  - <em>Directed by Rintaro</em></li>
+<li><a href="https://en.wikipedia.org/wiki/In_This_Corner_of_the_World_(film)">In this corner of the world</a>  - <em>Directed by Sunao Katabuchi</em></li>
+<li><a href="https://en.wikipedia.org/wiki/Patema_Inverted">Patema inverted</a>  - <em>Directed by Yasuhiro Yoshiura</em></li>
+<li><a href="https://en.wikipedia.org/wiki/Liz_and_the_Blue_Bird">Liz and the bluebird</a>  - <em>Directed by Naoko Yamada</em></li>
+<li><a href="https://en.wikipedia.org/wiki/A_Silent_Voice_(film)">A silent Voice</a> - <em>Directed by Naoko Yamada</em></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Great_Passage_(TV_series)">The great passage</a> - <em>Directed by Shion Miura</em></li>
+<li>Have been life-long admirer of Studio ghibli, Hayao miyazaki, Satoshi Kon, etc. Others include classics like Naruto, Death note, Code geass etc</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+
+  <p class="powered-by">
+    
+    Design by:
+    <a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy</a>. Edited by: <a href="https://mlahariya.github.io">Manu Lahariya</a>
+    
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.1cb9e2fc8399acee94eab837265b73bf.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+      
+    
+    <script src="/en/js/wowchemy.min.14fc44f7e59cd35773ed1e5de0263c26.js"></script>
+
+    
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+
+</body>
+</html>

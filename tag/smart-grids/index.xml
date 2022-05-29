@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart Grids | Manu Lahariya</title>
+    <link>https://mlahariya.github.io/tag/smart-grids/</link>
+      <atom:link href="https://mlahariya.github.io/tag/smart-grids/index.xml" rel="self" type="application/rss+xml" />
+    <description>Smart Grids</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlahariya.github.io/media/icon_hu446ac7d1b1789e200a0f6c6efda4540e_272816_512x512_fill_lanczos_center_3.png</url>
+      <title>Smart Grids</title>
+      <link>https://mlahariya.github.io/tag/smart-grids/</link>
+    </image>
+    
+    <item>
+      <title>Computationally efficient joint coordination of multiple electric vehicle charging points using reinforcement learning</title>
+      <link>https://mlahariya.github.io/publication/2022_appliedenergy_underreview/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2022_appliedenergy_underreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning - Demand Response</title>
+      <link>https://mlahariya.github.io/researchprojects/2019_rlev/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2019_rlev/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

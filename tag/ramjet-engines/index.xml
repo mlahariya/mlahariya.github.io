@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramjet Engines | Manu Lahariya</title>
+    <link>https://mlahariya.github.io/tag/ramjet-engines/</link>
+      <atom:link href="https://mlahariya.github.io/tag/ramjet-engines/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ramjet Engines</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlahariya.github.io/media/icon_hu446ac7d1b1789e200a0f6c6efda4540e_272816_512x512_fill_lanczos_center_3.png</url>
+      <title>Ramjet Engines</title>
+      <link>https://mlahariya.github.io/tag/ramjet-engines/</link>
+    </image>
+    
+    <item>
+      <title>Ramjet Engine Ignition</title>
+      <link>https://mlahariya.github.io/researchprojects/2016_drdo/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2016_drdo/</guid>
+      <description>&lt;dl&gt;
+&lt;dt&gt;&lt;strong&gt;Research Visit&lt;/strong&gt; at &lt;a href=&#34;https://www.drdo.gov.in/labs-and-establishments/defence-research-development-laboratory-drdl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Defence Research and Development Laboratory&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Propellant grain igniter testing for ramjet combustion chambers.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Supervisor&lt;/em&gt;: Mrs Sunita Devi Jena ; Scientist ‘G’, DRDO&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Analysed fuel rich grain based igniter configuration and did its performance evaluation for use in ramjet engine combustion chamber. Devised and tested the magnesium based propellant grain igniter in  stand alone/ramjet mode testing. Validated using NASA CEA. Evaluated a new configuration of propellant grain to ensure reliable combustion and prepared chamber pressure - burn time graphs&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science | Kaggle</title>
+      <link>https://mlahariya.github.io/researchprojects/2016_kaggle/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2016_kaggle/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/c/bike-sharing-demand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bike Sharing&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Forecast bike rental demand, Kaggle&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Performed variable manipulation using data visualisation techniques and correlation matrix as preparatory steps for model construction&lt;/li&gt;
+&lt;li&gt;Trained a random forest classifier on the significant parameters &amp;amp; performed hyper-parameter tuning to achieve the error score of 0.4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/c/titanic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Titanic&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prediction of likelihood of survival of passengers, Kaggle&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed insights on correlations and significant variables for prediction of survival of passengers after preprocessing the training data. Applied regression model and machine learning algorithms (SVM and Random forest) to achieve the maximum accuracy of 78.5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

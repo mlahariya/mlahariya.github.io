@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manu Lahariya</title>
+    <link>https://mlahariya.github.io/</link>
+      <atom:link href="https://mlahariya.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manu Lahariya</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlahariya.github.io/media/icon_hu446ac7d1b1789e200a0f6c6efda4540e_272816_512x512_fill_lanczos_center_3.png</url>
+      <title>Manu Lahariya</title>
+      <link>https://mlahariya.github.io/</link>
+    </image>
+    
+    <item>
+      <title>A 𝑸-learning based demand response algorithm for industrial processes with flexibility</title>
+      <link>https://mlahariya.github.io/publication/2022_qlearning_chapter/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2022_qlearning_chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning physics-informed simulation models for soft robotic manipulation: A case study with dielectric elastomer actuators</title>
+      <link>https://mlahariya.github.io/publication/2022_iros_underreview/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2022_iros_underreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics Informed LSTM Network for Flexibility Identification in Evaporative Cooling Systems</title>
+      <link>https://mlahariya.github.io/publication/2022_ieeetii/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2022_ieeetii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computationally efficient joint coordination of multiple electric vehicle charging points using reinforcement learning</title>
+      <link>https://mlahariya.github.io/publication/2022_appliedenergy_underreview/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2022_appliedenergy_underreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Old Love | Eric Clapton | Cover</title>
+      <link>https://mlahariya.github.io/writingprojects/music_oldlove/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/writingprojects/music_oldlove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics informed simulation &amp; control - Soft Robotics</title>
+      <link>https://mlahariya.github.io/researchprojects/2021_uoe/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2021_uoe/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Research Visit&lt;/strong&gt; at &lt;a href=&#34;https://rad.inf.ed.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robust autonomy and decisions lab&lt;/a&gt;,
+&lt;a href=&#34;http://www.ed.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPAB, School of Informatics, University of Edinburgh.&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Publication: &lt;em&gt;Learning physics-informed simulation models for soft robotic manipulation: A case study with dielectric elastomer actuators&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Soft actuators offer a safe and adaptable approach to robotic tasks like gentle grasping and dexterous movement. Creating accurate models to control such systems however is challenging due to the complex physics of deformable materials. Accurate Finite Element Method (FEM) models incur prohibitive computational complexity for closed-loop use. Using a differentiable simulator is an attractive alternative, but their applicability to soft actuators and deformable materials remains under-explored. This paper presents a framework that combines the advantages of both. We learn a differentiable model consisting of a material properties neural network and an analytical dynamics model of the remainder of the manipulation task. This physics-informed model is trained using data generated from FEM, and can be used for closed-loop control and inference. We evaluate our framework on a dielectric elastomer actuator (DEA) coin-pulling task. We simulate DEA coin pulling in FEM, and design experiments to evaluate the physicsinformed model for simulation, control, and inference. Our model attains ≤ 5% simulation error compared to FEM, and we use it as the basis for an MPC controller that outperforms (i.e., requires fewer iterations to converge) a model-free actor-critic policy, a heuristic policy, and a PD controller.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physics-informed Recurrent Neural Networks for The Identification of a Generic Energy Buffer System</title>
+      <link>https://mlahariya.github.io/publication/2021_ddcls/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2021_ddcls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge of Desire | John Mayer | Cover</title>
+      <link>https://mlahariya.github.io/writingprojects/music_edgeofdesire/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/writingprojects/music_edgeofdesire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics RL - Demand Response</title>
+      <link>https://mlahariya.github.io/researchprojects/2022_bigg/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2022_bigg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Modelling - EV Fleet</title>
+      <link>https://mlahariya.github.io/researchprojects/2020_evsdg/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2020_evsdg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Data Generator for Electric Vehicle Charging Sessions: Modeling and Evaluation Using Real-World Data</title>
+      <link>https://mlahariya.github.io/publication/2020_energies/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2020_energies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining a synthetic data generator for realistic electric vehicle charging sessions</title>
+      <link>https://mlahariya.github.io/publication/2020_eenergy/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2020_eenergy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics LSTM - Process Modelling</title>
+      <link>https://mlahariya.github.io/researchprojects/2021_induflex/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2021_induflex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduced state space and cost function in reinforcement learning for demand response control of multiple EV charging stations.</title>
+      <link>https://mlahariya.github.io/publication/2019_buildsys/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2019_buildsys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning - Demand Response</title>
+      <link>https://mlahariya.github.io/researchprojects/2019_rlev/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2019_rlev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion Sickness</title>
+      <link>https://mlahariya.github.io/writingprojects/2019_motionsickness/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/writingprojects/2019_motionsickness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Birth of Maturity</title>
+      <link>https://mlahariya.github.io/writingprojects/2019_whoami/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/writingprojects/2019_whoami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>https://mlahariya.github.io/photography/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More</title>
+      <link>https://mlahariya.github.io/more/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/more/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Relations | Ghent MUN</title>
+      <link>https://mlahariya.github.io/personalprojects/2019_ghentmun/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/personalprojects/2019_ghentmun/</guid>
+      <description>&lt;p&gt;Organizing team, Model United Nations, Ghent, Belgium&lt;/p&gt;
+&lt;p&gt;Handled Public realtions for two iterations of Ghent MUN. Developed and maintained website of the conference.
+Involved in participants registations handling.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talking to myself</title>
+      <link>https://mlahariya.github.io/writingprojects/2019_talkingtomyself/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/writingprojects/2019_talkingtomyself/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rivers</title>
+      <link>https://mlahariya.github.io/writingprojects/poetry_1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/writingprojects/poetry_1/</guid>
+      <description>&lt;p&gt;Rivers&lt;/p&gt;
+&lt;p&gt;All flowing &lt;br&gt;
+All muddy &lt;br&gt;
+All deep &lt;br&gt;
+All hollow &lt;br&gt;
+All running freely to the ocean under the skies &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;All rivers &lt;br&gt;
+Start the same &lt;br&gt;
+Survive the same &lt;br&gt;
+End the same &lt;br&gt;
+Cliche love stories of &lt;br&gt;
+Waterbodies &lt;br&gt;
+Meeting &lt;br&gt;
+Waterbodies. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Are you ready?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summer Ends</title>
+      <link>https://mlahariya.github.io/writingprojects/poetry_2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/writingprojects/poetry_2/</guid>
+      <description>&lt;p&gt;Summer ends&lt;/p&gt;
+&lt;p&gt;Sunrays turn incandescent windows &lt;br&gt;
+Into yellow iridescent reflections &lt;br&gt;
+Of  dried up trees outside&lt;br&gt;
+I look down at my feet &lt;br&gt;
+And the mats are still wet&lt;br&gt;
+From soap water I left behind &lt;br&gt;
+Before I left.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve come home, two wooden doors&lt;br&gt;
+Door bells and windchimes &lt;br&gt;
+Leaves leave these days these trees&lt;br&gt;
+Before I come back to see &lt;br&gt;
+Spring sprouts from siblings running&lt;br&gt;
+Behind one another&lt;br&gt;
+Chased by &lt;br&gt;
+No one, &lt;br&gt;
+But me.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Summer ends.&lt;br&gt;
+And so does eternity.&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science | Competitions</title>
+      <link>https://mlahariya.github.io/researchprojects/2017_compitions/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2017_compitions/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://dare2compete.com/competition/exl-excellence-quotient-exl-service-pvt-ltd-11851&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EXL Excellence quotient, 2016&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;National competition | &lt;strong&gt;Awarded accuracy champion&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Organisers - &lt;a href=&#34;https://www.exlservice.com/services-and-solutions/analytics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EXL analytics&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;National data analytics competition on revenue modelling for a marketing campaign conducted by EXL analytics with 1000+ teams from IITs. Analysed skewed data of 19 variables and developed insights on spending habits by listing significant variables and their correlations. Achieved 98.9% accuracy of the model by applying polynomial regression (in variables) and linear regression and using CV error (for model selection). Calculated the Impact of offer on the cost and revenue of the bank and concluded an accurate incremental profit of INR 672,948&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hackerearth.com/challenges/competitive/zs-young-data-scientist-challenge-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Young Data scientist, 2017&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;National competition | 143-Leaderboard rank&lt;/li&gt;
+&lt;li&gt;Organisers - &lt;a href=&#34;https://www.zs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZS associates&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Prediction of annual revenue and leasing probability for all possible future clients.&lt;/li&gt;
+&lt;li&gt;Prepared leasing conditional probability variables, performed clustering and identified high lease rate hubs based on regions&lt;/li&gt;
+&lt;li&gt;Predicted annual revenue by applying regression on individual hubs using constructed conditional variables (test data- 0.14 error)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Calculation of Theoretical Performance of Boron-Based Composite Solid Propellant for the Future Applications.</title>
+      <link>https://mlahariya.github.io/publication/2016_idad/</link>
+      <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2016_idad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Master Thesis</title>
+      <link>https://mlahariya.github.io/researchprojects/2016_mtech/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2016_mtech/</guid>
+      <description>&lt;p&gt;Department of Aerospace Engineering, Indian Institute of Technology, Kharagpur, India.&lt;/p&gt;
+&lt;p&gt;“Experimental screening of boron based solid rocket fuels for hybrid rocket applications”&lt;br&gt;
+Presented also at - 11th International High Energy Material Conference and Exhibits, 2017.&lt;/p&gt;
+&lt;p&gt;Worked on construction of an opposed flow burner and tested multiple propellant pallet compositions to study Isp and velocity dynamics.&lt;/p&gt;
+&lt;p&gt;Analysed 120 nano boron compositions, calculated effect of particle size on burn rates, particle trajectory &amp;amp; specific impulse. Used FE SEM and high speed imaging for particle characterisation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ramjet Engine Ignition</title>
+      <link>https://mlahariya.github.io/researchprojects/2016_drdo/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2016_drdo/</guid>
+      <description>&lt;dl&gt;
+&lt;dt&gt;&lt;strong&gt;Research Visit&lt;/strong&gt; at &lt;a href=&#34;https://www.drdo.gov.in/labs-and-establishments/defence-research-development-laboratory-drdl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Defence Research and Development Laboratory&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Propellant grain igniter testing for ramjet combustion chambers.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Supervisor&lt;/em&gt;: Mrs Sunita Devi Jena ; Scientist ‘G’, DRDO&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Analysed fuel rich grain based igniter configuration and did its performance evaluation for use in ramjet engine combustion chamber. Devised and tested the magnesium based propellant grain igniter in  stand alone/ramjet mode testing. Validated using NASA CEA. Evaluated a new configuration of propellant grain to ensure reliable combustion and prepared chamber pressure - burn time graphs&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Co-Founder | STAC</title>
+      <link>https://mlahariya.github.io/personalprojects/2016_stac/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/personalprojects/2016_stac/</guid>
+      <description>&lt;p&gt;Co-Founder | Space Technology Awareness Camps (STAC), Collaborated with ISRO, India&lt;/p&gt;
+&lt;p&gt;National initiative for promoting space technology enthusiasm in student community of India through seminars conducted across India.
+Led a 3 tier team of 15, launched the initiative in 200+ colleges in India and conducted 6 STACs within the 2nd quarter(Sept 2014).
+Improved the offered value by augmenting with technical (RC plane and Hovercraft) and theoretical (Space talks) sessions in STAC.
+Focused STAC to acquire funding for CANSAT project undertaken by spAts and currently having total monetary worth of INR 5 Lakh.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science | Kaggle</title>
+      <link>https://mlahariya.github.io/researchprojects/2016_kaggle/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2016_kaggle/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/c/bike-sharing-demand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bike Sharing&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Forecast bike rental demand, Kaggle&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Performed variable manipulation using data visualisation techniques and correlation matrix as preparatory steps for model construction&lt;/li&gt;
+&lt;li&gt;Trained a random forest classifier on the significant parameters &amp;amp; performed hyper-parameter tuning to achieve the error score of 0.4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/c/titanic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Titanic&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prediction of likelihood of survival of passengers, Kaggle&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed insights on correlations and significant variables for prediction of survival of passengers after preprocessing the training data. Applied regression model and machine learning algorithms (SVM and Random forest) to achieve the maximum accuracy of 78.5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bachelors Thesis</title>
+      <link>https://mlahariya.github.io/researchprojects/2015_btech/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2015_btech/</guid>
+      <description>&lt;p&gt;Department of Aerospace Engineering, Indian Institute of Technology, Kharagpur, India.&lt;/p&gt;
+&lt;p&gt;Rocket propulsion- “Calculation of Theoretical Performance of Boron-Based Composite Solid Propellant for the Future Applications” - S.A. Hashim, M. Lahariya, S. Karmakar, A. Roy.
+Conference : I-DAD in Aerospace and Automotive Engineering, 2016.&lt;/p&gt;
+&lt;p&gt;Presented insights based on specific impulse and theoretical analysis of performance parameters of metal based solid rocket propellants
+Analysed 250 propellant configurations and suggested best among those configurations based on high energy density using NASA CEA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Core Team Head | Publicity &amp; Sponsorship</title>
+      <link>https://mlahariya.github.io/personalprojects/2013_nssc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/personalprojects/2013_nssc/</guid>
+      <description>&lt;p&gt;Core Team Head | Publicity &amp;amp; Sponsorship - National Students Space Challenge, Space festival, IIT Kharagpur, India, 2014&lt;/p&gt;
+&lt;p&gt;Guided a 3 tier team of 50 of the largest national space tech fest with 5000+ footfall, 9 events, 6 workshops(Budget: INR 15 lakh).
+Acquired sponsorships worth 7 lakh rupees, including the major sponsor Conducted 12 national publicity workshops (Audience: 4000+).
+Implemented the idea of online registration(and payment) and 3 exhibitions for the first time in NSSC; managed all guest lectures.
+Structured publicity plans in chronological order for focused marketing resulting in 23% YOY increase in participation from 40+ colleges.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
