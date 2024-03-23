@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Energy flexibility | Manu Lahariya</title>
+    <link>https://mlahariya.github.io/tag/energy-flexibility/</link>
+      <atom:link href="https://mlahariya.github.io/tag/energy-flexibility/index.xml" rel="self" type="application/rss+xml" />
+    <description>Energy flexibility</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlahariya.github.io/media/icon_hud6c675633a1aa536978cf6b7351237bc_65351_512x512_fill_lanczos_center_3.png</url>
+      <title>Energy flexibility</title>
+      <link>https://mlahariya.github.io/tag/energy-flexibility/</link>
+    </image>
+    
+    <item>
+      <title>A data-driven optimization framework for industrial demand-side flexibility</title>
+      <link>https://mlahariya.github.io/publication/2023_energy/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2023_energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics-informed machine learning based identification and reinforcement learning based control of flexibility in smart grid applications</title>
+      <link>https://mlahariya.github.io/publication/2023_thesis/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2023_thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

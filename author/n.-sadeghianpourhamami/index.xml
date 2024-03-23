@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Sadeghianpourhamami | Manu Lahariya</title>
+    <link>https://mlahariya.github.io/author/n.-sadeghianpourhamami/</link>
+      <atom:link href="https://mlahariya.github.io/author/n.-sadeghianpourhamami/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Sadeghianpourhamami</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlahariya.github.io/media/icon_hud6c675633a1aa536978cf6b7351237bc_65351_512x512_fill_lanczos_center_3.png</url>
+      <title>N. Sadeghianpourhamami</title>
+      <link>https://mlahariya.github.io/author/n.-sadeghianpourhamami/</link>
+    </image>
+    
+    <item>
+      <title>Computationally efficient joint coordination of multiple electric vehicle charging points using reinforcement learning</title>
+      <link>https://mlahariya.github.io/publication/2022_appliedenergy_underreview/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2022_appliedenergy_underreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduced state space and cost function in reinforcement learning for demand response control of multiple EV charging stations.</title>
+      <link>https://mlahariya.github.io/publication/2019_buildsys/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2019_buildsys/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Lahariya | Manu Lahariya</title>
+    <link>https://mlahariya.github.io/author/m.-lahariya/</link>
+      <atom:link href="https://mlahariya.github.io/author/m.-lahariya/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Lahariya</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlahariya.github.io/media/icon_hud6c675633a1aa536978cf6b7351237bc_65351_512x512_fill_lanczos_center_3.png</url>
+      <title>M. Lahariya</title>
+      <link>https://mlahariya.github.io/author/m.-lahariya/</link>
+    </image>
+    
+    <item>
+      <title>Real-World Implementation of Reinforcement Learning Based Energy Coordination for a Cluster of Households</title>
+      <link>https://mlahariya.github.io/publication/2023_buildsys/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2023_buildsys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A data-driven optimization framework for industrial demand-side flexibility</title>
+      <link>https://mlahariya.github.io/publication/2023_energy/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2023_energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics-informed machine learning based identification and reinforcement learning based control of flexibility in smart grid applications</title>
+      <link>https://mlahariya.github.io/publication/2023_thesis/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2023_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning physics-informed simulation models for soft robotic manipulation: A case study with dielectric elastomer actuators</title>
+      <link>https://mlahariya.github.io/publication/2022_iros/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2022_iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics Informed LSTM Network for Flexibility Identification in Evaporative Cooling Systems</title>
+      <link>https://mlahariya.github.io/publication/2022_ieeetii/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2022_ieeetii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A 𝑸-learning based demand response algorithm for industrial processes with flexibility</title>
+      <link>https://mlahariya.github.io/publication/2022_qlearning_chapter/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2022_qlearning_chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computationally efficient joint coordination of multiple electric vehicle charging points using reinforcement learning</title>
+      <link>https://mlahariya.github.io/publication/2022_appliedenergy_underreview/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2022_appliedenergy_underreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics-informed Recurrent Neural Networks for The Identification of a Generic Energy Buffer System</title>
+      <link>https://mlahariya.github.io/publication/2021_ddcls/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2021_ddcls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Data Generator for Electric Vehicle Charging Sessions: Modeling and Evaluation Using Real-World Data</title>
+      <link>https://mlahariya.github.io/publication/2020_energies/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2020_energies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining a synthetic data generator for realistic electric vehicle charging sessions</title>
+      <link>https://mlahariya.github.io/publication/2020_eenergy/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2020_eenergy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduced state space and cost function in reinforcement learning for demand response control of multiple EV charging stations.</title>
+      <link>https://mlahariya.github.io/publication/2019_buildsys/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2019_buildsys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculation of Theoretical Performance of Boron-Based Composite Solid Propellant for the Future Applications.</title>
+      <link>https://mlahariya.github.io/publication/2016_idad/</link>
+      <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/publication/2016_idad/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

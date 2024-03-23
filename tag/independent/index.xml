@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Independent | Manu Lahariya</title>
+    <link>https://mlahariya.github.io/tag/independent/</link>
+      <atom:link href="https://mlahariya.github.io/tag/independent/index.xml" rel="self" type="application/rss+xml" />
+    <description>Independent</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlahariya.github.io/media/icon_hud6c675633a1aa536978cf6b7351237bc_65351_512x512_fill_lanczos_center_3.png</url>
+      <title>Independent</title>
+      <link>https://mlahariya.github.io/tag/independent/</link>
+    </image>
+    
+    <item>
+      <title>Physics informed simulation &amp; control - Soft Robotics</title>
+      <link>https://mlahariya.github.io/researchprojects/2021_uoe/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2021_uoe/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Research Visit&lt;/strong&gt; at &lt;a href=&#34;https://rad.inf.ed.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robust autonomy and decisions lab&lt;/a&gt;,
+&lt;a href=&#34;http://www.ed.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPAB, School of Informatics, University of Edinburgh.&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Publication: &lt;em&gt;Learning physics-informed simulation models for soft robotic manipulation: A case study with dielectric elastomer actuators&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Soft actuators offer a safe and adaptable approach to robotic tasks like gentle grasping and dexterous movement. Creating accurate models to control such systems however is challenging due to the complex physics of deformable materials. Accurate Finite Element Method (FEM) models incur prohibitive computational complexity for closed-loop use. Using a differentiable simulator is an attractive alternative, but their applicability to soft actuators and deformable materials remains under-explored. This paper presents a framework that combines the advantages of both. We learn a differentiable model consisting of a material properties neural network and an analytical dynamics model of the remainder of the manipulation task. This physics-informed model is trained using data generated from FEM, and can be used for closed-loop control and inference. We evaluate our framework on a dielectric elastomer actuator (DEA) coin-pulling task. We simulate DEA coin pulling in FEM, and design experiments to evaluate the physicsinformed model for simulation, control, and inference. Our model attains ≤ 5% simulation error compared to FEM, and we use it as the basis for an MPC controller that outperforms (i.e., requires fewer iterations to converge) a model-free actor-critic policy, a heuristic policy, and a PD controller.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical Modelling - EV Fleet</title>
+      <link>https://mlahariya.github.io/researchprojects/2020_evsdg/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2020_evsdg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning - Demand Response</title>
+      <link>https://mlahariya.github.io/researchprojects/2019_rlev/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2019_rlev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science | Competitions</title>
+      <link>https://mlahariya.github.io/researchprojects/2017_compitions/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2017_compitions/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://dare2compete.com/competition/exl-excellence-quotient-exl-service-pvt-ltd-11851&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EXL Excellence quotient, 2016&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;National competition | &lt;strong&gt;Awarded accuracy champion&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Organisers - &lt;a href=&#34;https://www.exlservice.com/services-and-solutions/analytics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EXL analytics&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;National data analytics competition on revenue modelling for a marketing campaign conducted by EXL analytics with 1000+ teams from IITs. Analysed skewed data of 19 variables and developed insights on spending habits by listing significant variables and their correlations. Achieved 98.9% accuracy of the model by applying polynomial regression (in variables) and linear regression and using CV error (for model selection). Calculated the Impact of offer on the cost and revenue of the bank and concluded an accurate incremental profit of INR 672,948&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hackerearth.com/challenges/competitive/zs-young-data-scientist-challenge-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Young Data scientist, 2017&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;National competition | 143-Leaderboard rank&lt;/li&gt;
+&lt;li&gt;Organisers - &lt;a href=&#34;https://www.zs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZS associates&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Prediction of annual revenue and leasing probability for all possible future clients.&lt;/li&gt;
+&lt;li&gt;Prepared leasing conditional probability variables, performed clustering and identified high lease rate hubs based on regions&lt;/li&gt;
+&lt;li&gt;Predicted annual revenue by applying regression on individual hubs using constructed conditional variables (test data- 0.14 error)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ramjet Engine Ignition</title>
+      <link>https://mlahariya.github.io/researchprojects/2016_drdo/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2016_drdo/</guid>
+      <description>&lt;dl&gt;
+&lt;dt&gt;&lt;strong&gt;Research Visit&lt;/strong&gt; at &lt;a href=&#34;https://www.drdo.gov.in/labs-and-establishments/defence-research-development-laboratory-drdl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Defence Research and Development Laboratory&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Propellant grain igniter testing for ramjet combustion chambers.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Supervisor&lt;/em&gt;: Mrs Sunita Devi Jena ; Scientist ‘G’, DRDO&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Analysed fuel rich grain based igniter configuration and did its performance evaluation for use in ramjet engine combustion chamber. Devised and tested the magnesium based propellant grain igniter in  stand alone/ramjet mode testing. Validated using NASA CEA. Evaluated a new configuration of propellant grain to ensure reliable combustion and prepared chamber pressure - burn time graphs&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science | Kaggle</title>
+      <link>https://mlahariya.github.io/researchprojects/2016_kaggle/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/researchprojects/2016_kaggle/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/c/bike-sharing-demand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bike Sharing&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Forecast bike rental demand, Kaggle&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Performed variable manipulation using data visualisation techniques and correlation matrix as preparatory steps for model construction&lt;/li&gt;
+&lt;li&gt;Trained a random forest classifier on the significant parameters &amp;amp; performed hyper-parameter tuning to achieve the error score of 0.4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/c/titanic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Titanic&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prediction of likelihood of survival of passengers, Kaggle&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed insights on correlations and significant variables for prediction of survival of passengers after preprocessing the training data. Applied regression model and machine learning algorithms (SVM and Random forest) to achieve the maximum accuracy of 78.5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

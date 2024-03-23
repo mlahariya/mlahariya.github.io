@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personalprojects | Manu Lahariya</title>
+    <link>https://mlahariya.github.io/personalprojects/</link>
+      <atom:link href="https://mlahariya.github.io/personalprojects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Personalprojects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlahariya.github.io/media/icon_hud6c675633a1aa536978cf6b7351237bc_65351_512x512_fill_lanczos_center_3.png</url>
+      <title>Personalprojects</title>
+      <link>https://mlahariya.github.io/personalprojects/</link>
+    </image>
+    
+    <item>
+      <title>Public Relations | Ghent MUN</title>
+      <link>https://mlahariya.github.io/personalprojects/2019_ghentmun/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/personalprojects/2019_ghentmun/</guid>
+      <description>&lt;p&gt;Organizing team, Model United Nations, Ghent, Belgium&lt;/p&gt;
+&lt;p&gt;Handled Public realtions for two iterations of Ghent MUN. Developed and maintained website of the conference.
+Involved in participants registations handling.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Co-Founder | STAC</title>
+      <link>https://mlahariya.github.io/personalprojects/2016_stac/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/personalprojects/2016_stac/</guid>
+      <description>&lt;p&gt;Co-Founder | Space Technology Awareness Camps (STAC), Collaborated with ISRO, India&lt;/p&gt;
+&lt;p&gt;National initiative for promoting space technology enthusiasm in student community of India through seminars conducted across India.
+Led a 3 tier team of 15, launched the initiative in 200+ colleges in India and conducted 6 STACs within the 2nd quarter(Sept 2014).
+Improved the offered value by augmenting with technical (RC plane and Hovercraft) and theoretical (Space talks) sessions in STAC.
+Focused STAC to acquire funding for CANSAT project undertaken by spAts and currently having total monetary worth of INR 5 Lakh.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Core Team Head | Publicity &amp; Sponsorship</title>
+      <link>https://mlahariya.github.io/personalprojects/2013_nssc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://mlahariya.github.io/personalprojects/2013_nssc/</guid>
+      <description>&lt;p&gt;Core Team Head | Publicity &amp;amp; Sponsorship - National Students Space Challenge, Space festival, IIT Kharagpur, India, 2014&lt;/p&gt;
+&lt;p&gt;Guided a 3 tier team of 50 of the largest national space tech fest with 5000+ footfall, 9 events, 6 workshops(Budget: INR 15 lakh).
+Acquired sponsorships worth 7 lakh rupees, including the major sponsor Conducted 12 national publicity workshops (Audience: 4000+).
+Implemented the idea of online registration(and payment) and 3 exhibitions for the first time in NSSC; managed all guest lectures.
+Structured publicity plans in chronological order for focused marketing resulting in 23% YOY increase in participation from 40+ colleges.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
